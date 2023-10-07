@@ -1,0 +1,23 @@
+{
+  "gracze":
+  [
+    {
+    "imie": "Robert",
+    "nazwisko": "Lewandowski",
+    "wiek": 35,
+    "pozycja": "napastnik",
+    "umiejetnosci": 90
+    },
+    {
+    "imie": "Michał",
+    "nazwisko": "Pazdan",
+    "wiek": 36,
+    "pozycja": "obrońca",
+    "umiejetnosci": 72
+    }
+  ]
+}
+
+
+
+

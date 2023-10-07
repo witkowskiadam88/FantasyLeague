@@ -1,0 +1,39 @@
+{
+  "gracze": [
+    {
+      "napastnicy": [
+        {
+          "imie": "Robert",
+          "nazwisko": "Lewandowski",
+          "wiek": 35,
+          "pozycja": "napastnik",
+          "umiejetnosci": 90
+        },
+        {
+          "imie": "Krzysztof",
+          "nazwisko": "Piatek",
+          "wiek": 32,
+          "pozycja": "napastnik",
+          "umiejetnosci": 74
+        }
+      ],
+      "obroncy": [
+        {
+          "imie": "Michal",
+          "nazwisko": "Pazdan",
+          "wiek": 35,
+          "pozycja": "obronca",
+          "umiejetnosci": 73
+        },
+        {
+          "imie": "Kamil",
+          "nazwisko": "Glik",
+          "wiek": 36,
+          "pozycja": "obronca",
+          "umiejetnosci": 79
+        }
+      ]
+    }
+  ]
+}
+
