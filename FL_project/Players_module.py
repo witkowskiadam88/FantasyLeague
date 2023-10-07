@@ -1,6 +1,6 @@
 import json
 
-file_path = open("../Fantasy_League/players_dict.json")
+file_path = open("fantasyleague/FL_project/players_dict.json")
 players_dict_json_file = json.load(file_path)
 
 class Players:
@@ -29,5 +29,5 @@ class Players:
                         position = players_dict_json_file[dict_main][position_dict][player]["position"]
                         skill = players_dict_json_file[dict_main][position_dict][player]["skill"]
 
-                        return cls(player,dict_main, position_dict, name, surname, age, position, skill)
+                        return cls(player, dict_main, position_dict, name, surname, age, position, skill)
 
