@@ -1,0 +1,72 @@
+{
+  "players": {
+    "striker": {
+      "Robert Lewandowski": {
+        "name": "Robert",
+        "surname": "Lewandowski",
+        "age": 35,
+        "position": "napastnik",
+        "skill": 90
+      },
+      "Krzysztof Piatek": {
+        "name": "Krzysztof",
+        "surname": "Piatek",
+        "age": 32,
+        "position": "napastnik",
+        "skill": 82
+      }
+    },
+    "defender": {
+      "Michal Pazdan": {
+        "name": "Michal",
+        "surname": "Pazdan",
+        "age": 35,
+        "position": "obronca",
+        "skill": 73
+      },
+      "Kamil Glik": {
+          "name": "Kamil",
+          "surname": "Glik",
+          "age": 36,
+          "position": "obronca",
+          "skill": 79
+      }
+    },
+    "middle": {
+      "Piotr Zielinski": {
+        "name": "Piotr",
+        "surname": "Zielinski",
+        "age": 29,
+        "position": "pomocnik",
+        "skill": 91
+      },
+      "Jakub Moder": {
+        "name": "Jakub",
+        "surname": "Moder",
+        "age": 25,
+        "position": "pomocnik",
+        "skill": 79
+      }
+    },
+    "goalkeeper": {
+      "Wojciech Szczesny": {
+        "name": "Wojciech",
+        "surname": "Szczesny",
+        "age": 33,
+        "position": "bramkarz",
+        "skill": 88
+      },
+      "Kamil Grabara": {
+        "name": "Kamil",
+        "surname": "Grabara",
+        "age": 26,
+        "position": "bramkarz",
+        "skill": 83
+      }
+    }
+  }
+}
+
+
+
+
